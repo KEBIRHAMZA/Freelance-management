@@ -307,10 +307,7 @@ chore(test): configure H2 datasource for test profile  Ref: FH-T-003
 
 ## Author
 
-**KEBIR Hamza**  
-4ème Année — ESISA  
-Module : Frameworks Java — Spring & Spring Boot  
-Professeur : N. Chenfour
+**KEBIR Hamza** 
 
 ---
 
