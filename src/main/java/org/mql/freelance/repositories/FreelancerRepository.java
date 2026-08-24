@@ -20,4 +20,5 @@ public interface FreelancerRepository extends JpaRepository<Freelancer, Integer>
 
     @Query("SELECT f FROM Freelancer f JOIN f.skills s WHERE s.name = :skillName")
     List<Freelancer> findBySkillName(String skillName);
+    
 }
