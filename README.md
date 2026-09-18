@@ -1,4 +1,4 @@
-# FreelanceHub 🚀
+# Freelancer and mission management.
 
 > Full-stack web application for freelancer and mission management.  
 > Built with Spring Boot · Spring Data JPA · MySQL · REST API · JavaScript Fetch API · Thymeleaf
@@ -27,7 +27,7 @@
 
 ## About the Project
 
-FreelanceHub is a platform that connects freelancers with missions. It allows managing freelancer profiles with their skills, tracking available missions, and searching for the right match based on specialty, skill, or daily rate.
+Platform that connects freelancers with missions. It allows managing freelancer profiles with their skills, tracking available missions, and searching for the right match based on specialty, skill, or daily rate.
 
 This project was built as a learning project to practice the full Spring Boot stack — from IoC and dependency injection to JPA entities, REST API design, AJAX frontend, and unit/integration testing.
 
